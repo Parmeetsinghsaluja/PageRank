@@ -1,0 +1,19 @@
+Report on Simple Statistics
+G1: Graph from Breadth First Search Crawling
+G2: Graph from Depth First Search Crawling
+
+a)pages with no in-links (sources)
+G1: 0
+G2: 0
+B)pages with no out-links (sinks)
+G1: 66
+G2: 7
+
+Speculation:
+a) 
+G1: The number of no in-links is 0 as every link is pointed by one or another link.
+G2: The number of no in-links is 0 as every link is pointed by one or another link.
+
+b)
+G1: The number of no out-links is high that means there were more number of pages which were not related to each other.
+G2: The number of no out-links is less that means there were less number of pages which were not related to each other.
